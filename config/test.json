@@ -1,0 +1,9 @@
+{
+    "info": [
+        "By seeting a private key here allows us to run the test",
+        "on any machine without having to set the environments",
+        "variable with it."
+    ],
+
+    "jwtPrivateKey": "1234"
+}

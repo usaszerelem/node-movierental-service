@@ -1,0 +1,19 @@
+{
+    "info": [
+        "Default environment specific configuration. These can be overriden.",
+        "in development.json or production.json"
+    ],
+
+    "jwtPrivateKey": "",
+
+    "name": "Martin's Movie Rental",
+
+    "db": {
+        "uri": ""
+    },
+
+    "mail": {
+        "host": "mail-server",
+        "password": ""
+    }
+}

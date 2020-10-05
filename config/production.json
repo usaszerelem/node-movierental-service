@@ -1,0 +1,7 @@
+{
+    "name": "Martin's Movie Rental - Production",
+
+    "mail": {
+        "host": "prod-mail-server"
+    }
+}

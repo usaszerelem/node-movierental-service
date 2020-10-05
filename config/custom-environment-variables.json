@@ -1,0 +1,13 @@
+{
+    "jwtPrivateKey": "jwtPrivateKey",
+
+    "Environment": "NODE_ENV",
+
+    "db": {
+        "host": "MONGO_HOST"
+    },
+
+    "mail": {
+        "password": "mail_password"
+    }
+}
