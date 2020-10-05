@@ -1,3 +1,5 @@
 node_modules/
 coverage/
 setenv.sh
+.DS_Store
+.vscode
