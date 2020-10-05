@@ -3,3 +3,4 @@ coverage/
 setenv.sh
 .DS_Store
 .vscode
+info.log
